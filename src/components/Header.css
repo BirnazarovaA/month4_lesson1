@@ -1,0 +1,14 @@
+.nav-container{
+    display: flex;
+}
+
+.links-container{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    width: 100%;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
